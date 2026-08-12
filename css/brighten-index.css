@@ -10,7 +10,7 @@ html { scroll-behavior: smooth; }
   --sage-light: #A8C5A0;
   --sage-mid:   #6B9E62;
   --sage-dark:  #1D5249;
-  --gold:       #C9973C;
+  --gold:       #8C6320;
   --charcoal:   #292724;
   --mid:        #68645D;
   --white:      #FFFFFF;
@@ -67,7 +67,7 @@ nav {
 
 /* EYEBROW */
 .eyebrow {
-  font-family: var(--sans); font-size: 12px; font-weight: 500;
+  font-family: var(--sans); font-size:13px; font-weight: 500;
   letter-spacing: 0.2em; text-transform: uppercase;
   color: var(--sage-dark); margin-bottom: 20px; display: block;
 }
